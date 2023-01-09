@@ -1,5 +1,9 @@
 # Abstractive-Text-Summarization
 
+An abstractive text summarization model based on the seq2seq transformer architecture, that beats PreTrained BERT Summarizer with respect to Rogue Scores.
+
+It uses the CNN_DailyMail Dataset for training.
+
 **Pre-Trained BERT**
 | ****  | Rogue-1              | Rogue-2  | Rogue-L  |
 |:-----:|:--------------------:|:--------:|:--------:|
