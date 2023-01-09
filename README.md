@@ -1,6 +1,6 @@
 # Abstractive-Text-Summarization
 
-| ****  | **Pre-Trained BERT**                       | **Our Seq2Seq Transformer**                       |
+| ****  | **Pre-Trained BERT** |          |          | **Our Seq2Seq Transformer** |          |          |
 |:-----:|:--------------------:|:--------:|:--------:|:---------------------------:|:--------:|:--------:|
 | ****  | Rogue-1              | Rogue-2  | Rogue-L  | Rogue-1                     | Rogue-2  | Rogue-L  |
 | **r** | 0.253672             | 0.088063 | 0.230165 | 0.3818                      | 0.161194 | 0.362263 |
